@@ -1,1 +1,4 @@
-console.log("Hello, git");
+var omar = "Happy 2nd Sabbath!";
+
+console.log(omar);
+
